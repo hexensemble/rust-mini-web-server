@@ -2,6 +2,8 @@
 
 Simple multi-threaded web server built in Rust. 📡
 
+![Rust Mini Web Server](preview.png)
+
 This project follows the web server implementation at the end of The Rust Programming Language book, but with improved error handling (no more `unwrap()`).
 
 I’ve completed the Rust Book cover to cover and built this project as a hands-on exercise to reinforce my understanding of systems programming, concurrency, and networking in Rust.
