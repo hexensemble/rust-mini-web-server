@@ -1,6 +1,6 @@
 # Rust Mini Web Server
 
-Simple multi-threaded web server built in Rust. 📡
+Simple multi-threaded web server built with Rust. 📡
 
 ![Rust Mini Web Server](preview.png)
 
