@@ -12,4 +12,4 @@ I’ve completed the Rust Book cover to cover and built this project as a hands-
 
 The server handles 2 basic HTTP requests, serves static HTML pages, then gracefully shuts down.
 
-🚧 **Not Production-Ready** - This is a learning project, not a full-fledged web server. In real-world applications, optimized async frameworks like Tokio + Hyper or Actix Web are used for performance and scalability.
+🚧 **Not Production-Ready** - This just a simple code example, not a full-fledged web server. In real-world applications, optimized async frameworks like Tokio would be used for performance and scalability.
