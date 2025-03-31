@@ -2,6 +2,8 @@
 
 Example Rust multi-threaded web server. 📡
 
+<br>
+
 ![Rust Mini Web Server](preview.png)
 
 This project follows the web server implementation at the end of The Rust Programming Language book, but with improved error handling (no more `unwrap()`).
